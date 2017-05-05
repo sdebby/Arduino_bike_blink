@@ -17,7 +17,7 @@ Using Neopixel librery:
 https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library
 
 # Schematics
-[![N|Schemaic image](https://github.com/sdebby/Arduino_bike_blink/blob/master/Code/170406%20Bike_Blink_v0_bb.jpg)
+![N|Schemaic image](https://github.com/sdebby/Arduino_bike_blink/blob/master/Code/170406%20Bike_Blink_v0_bb.jpg)
 
 # Limitations
 ** When connecting to power bank USB charger, the PowerBankPresent value needed to be true- so it will keep the LED pin on HIGH, otherwise the power bank charger will stop working.
