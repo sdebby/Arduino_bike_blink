@@ -1,1 +1,1 @@
-Project images and ddocumentation.
+Project images and documentation.
