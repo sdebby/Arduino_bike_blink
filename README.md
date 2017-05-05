@@ -1,6 +1,8 @@
-# Arduino_bike_blink
+# Arduino bike blink project
 Arduino nano with RGB led strips operated by RF control.
 This project made for rear signaling when riding a bike.
+
+The remote control connected to the front handle with Velcro.
 
 This project uses:
 * Arduino nano v3.0
