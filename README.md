@@ -24,3 +24,6 @@ https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library
 
 # Limitations
 ** When connecting to power bank USB charger, the PowerBankPresent value needed to be true- so it will keep the LED pin on HIGH, otherwise the power bank charger will stop working.
+
+# Video
+[![YT_Video](https://img.youtube.com/vi/kdwFtUYQnUo/0.jpg)](https://www.youtube.com/watch?v=kdwFtUYQnUo)
