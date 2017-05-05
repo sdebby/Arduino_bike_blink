@@ -1,5 +1,5 @@
 # Arduino bike blink project
-Arduino nano with RGB led strips operated by RF control.
+Arduino nano with 2 RGB led strips, attached to bag pack and operated by 4 channel RF control.
 This project made for rear signaling when riding a bike.
 
 The remote control connected to the front handle with Velcro.
@@ -16,4 +16,5 @@ The remote control connected to the front handle with Velcro.
 Using Neopixel librery: 
 https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library
 
+# Limitations
 ** When connecting to power bank USB charger, the PowerBankPresent value needed to be true- so it will keep the LED pin on HIGH, otherwise the power bank charger will stop working.
